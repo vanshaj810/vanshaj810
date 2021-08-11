@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vanshaj BHardwaj</h1>
+<h1 align="center">Hi 👋, I'm VANSHAJ BHARDWAJ</h1>
 <h3 align="center">A passionate frontend developer from INDIA  </h3>
 <p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFp7lGD55nCE6Ma3hnBuHJvDIlDIFCz60jw&usqp=CAU" alt="Vanshaj" /></p>
 
