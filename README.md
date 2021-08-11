@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vanshaj810@gmail.com**
 
-- 📄 Know about my experiences <p><a href="https://drive.google.com/file/d/1_HoXI3K3YKv7qmgABGlWZeBz-xVHh67D/view?usp=sharing"></a> Resume </p>
+- 📄 Know about my experiences <p><a href="https://drive.google.com/file/d/1_HoXI3K3YKv7qmgABGlWZeBz-xVHh67D/view?usp=sharing">Resume</a>  </p>
  
 
 - ⚡ Fun fact **I like animes**
